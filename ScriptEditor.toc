@@ -1,0 +1,9 @@
+## Interface: 11210
+## Title: ScriptEditor
+## Version: 1
+## Notes: A simple script editor. show with /sed
+## Author: Pellevink
+## SavedVariables: ScriptEditorDB
+## OptionalDeps:
+## Dependencies:
+ScriptEditor.lua
